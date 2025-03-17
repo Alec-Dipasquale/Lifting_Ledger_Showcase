@@ -1,6 +1,8 @@
 # 📓 Lifting Ledger  
 **Your Ultimate Workout Logging Companion**  
 
+📌 [Lifting Tracker - source code](https://github.com/Alec-Dipasquale/Lifting-Tracker-KMP)
+
 ## 🎯 Overview  
 **Lifting Ledger** is an advanced workout tracking application built with **Kotlin Multiplatform (KMM)** and **Jetpack Compose**. It provides a **structured logging system**, powerful **search and filtering mechanisms**, and an **optimized UI for real-time data interaction**.  
 
